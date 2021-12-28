@@ -333,7 +333,7 @@ So now we have some SMB shares we can enumerate. The IT share has a PowerShell s
 
 ```bash
 ─$ smbclient \\\\intelligence.htb\\IT -U Tiffany.Molina                                                                                                 
-Enter WORKGROUP\Tiffany.Molina's password: 
+Enter WORKGROUP\Tiffany.Molina''s password: 
 Try "help" to get a list of possible commands.
 smb: \> dir
   .                                   D        0  Sun Apr 18 20:50:55 2021
